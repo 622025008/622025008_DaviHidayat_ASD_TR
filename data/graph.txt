@@ -1,0 +1,11 @@
+5
+Jakarta
+Bandung
+Semarang
+Yogyakarta
+Surabaya
+0 1 1 0 0
+1 0 0 1 0
+1 0 0 1 1
+0 1 1 0 1
+0 0 1 1 0

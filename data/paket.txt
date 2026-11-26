@@ -1,0 +1,4 @@
+100;res01;rekhan;solo;1.20;Dikirim
+101;res103;miko;salatiga;1.50;Dikirim
+102;RES002;DAVI;Surabaya;5.50;Dikirim
+103;RES003;REKHAN;PURWODADI;3.40;Menunggu
